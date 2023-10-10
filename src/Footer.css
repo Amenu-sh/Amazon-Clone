@@ -1,0 +1,28 @@
+.footer_area {
+  background-color: #2b4665;
+  width: 100%;
+  min-height: 200px;
+  color: whitesmoke;
+}
+.footarea_top {
+  background-color: #3976bf;
+  min-height: 60px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.footerarea_links {
+  width: 90%;
+  margin: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.footerarea_linkarea {
+  margin-top: 15px;
+  margin-bottom: 20px;
+  color: white;
+  text-decoration: none;
+  font-size: 14px;
+}
